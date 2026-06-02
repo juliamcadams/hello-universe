@@ -1,1 +1,3 @@
-Getting started
+# Getting started
+
+by: Julia McAdams
